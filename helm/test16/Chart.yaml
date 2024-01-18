@@ -1,0 +1,7 @@
+apiVersion: v2
+name: test16
+description: >-
+  This is the Helm chart for application test16.
+type: application
+kubeVersion: ">=1.23-0"
+version: 1.0.0
